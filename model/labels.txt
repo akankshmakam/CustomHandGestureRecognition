@@ -1,0 +1,4 @@
+0 OK
+1 NOT OK
+2 HI
+3 SUPERB
